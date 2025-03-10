@@ -1,2 +1,2 @@
 # refactored-site-dissect
-Focused in webscraping
+Base para Leitura do site em webscrap
